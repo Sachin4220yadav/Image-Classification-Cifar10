@@ -1,4 +1,4 @@
-****# Image-Classification****
+****#Image-Classification-cifar10****
 
 **CIFAR-10 Image Classifier**
 This project uses a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. CIFAR-10 is a popular dataset of 60,000 small images across 10 categories, such as airplanes, cars, birds, and cats. If you're new to Machine Learning or Neural Networks, this project is a great way to understand how machines "see" and classify images.
